@@ -1,3 +1,5 @@
+Ref: Must-Know in Statistics: The Bivariate Normal Projection Explained | Towards Data Science https://share.google/1lQidHTscmr17oLZF
+
 # Welcome to my Quantitative Finance Playground!
 
 ### Overview
